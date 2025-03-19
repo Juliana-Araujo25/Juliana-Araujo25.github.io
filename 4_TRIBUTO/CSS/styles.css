@@ -1,0 +1,142 @@
+html {
+  font-family: Helvetica;
+  color: white;
+  background-color: rgb(39, 1, 39);
+}
+
+.container {
+  max-width: 1150px;
+  background-color: rgb(71, 2, 51);
+  position: relative;
+  margin: 50px auto;
+  padding: 20px 50px;
+}
+
+.bold {
+  font-weight: bold;
+  color: yellow;
+}
+
+.italic {
+  font-style: italic;
+}
+
+/* HEADER */
+.header {
+  text-align: center;
+}
+
+.main-title {
+  font-size: 60px;
+  margin-bottom: 5px;
+}
+
+.main-paragraph {
+  font-size: 20px;
+  font-style: italic;
+}
+
+/* IMAGEM DE DESTAQUE 1*/
+.featured-image-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* BIOGRAFIA - ANOS INICIAIS */
+.biography-1-container {
+  padding: 25px 0;
+  margin: 25px 0;
+  border-top: 1px dashed #fff;
+  border-bottom: 1px dashed #fff;
+}
+
+/* CITAÇÃO (QUOTES) */
+.quotes-container {
+  background-color: rgb(39, 1, 39);
+  padding: 30px;
+}
+
+.quotes-container blockquote {
+  font-weight: bold;
+  font-size: 30px;
+  color: yellow;
+}
+
+.quotes-container p {
+  font-style: italic;
+  color: yellow;
+}
+
+/* BIOGRAFIA - TRAJETÓRIA */
+.biography-2-container {
+  padding: 25px 0;
+  margin: 25px 0;
+  border-top: 1px dashed #fff;
+  border-bottom: 1px dashed #fff;
+}
+
+/* IMAGEM DE DESTAQUE 2*/
+.featured-image-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* BIOGRAFIA - PARTIDA DE CHESTER */
+.biography-3-container {
+  padding: 25px 0;
+  margin: 25px 0;
+  border-top: 1px dashed #fff;
+  border-bottom: 1px dashed #fff;
+}
+
+/* IMAGEM DE DESTAQUE 3*/
+.featured-image-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* BIOGRAFIA - NOVA FORMAÇÃO */
+.biography-4-container {
+  padding: 25px 0;
+  margin: 25px 0;
+  border-top: 1px dashed #fff;
+  border-bottom: 1px dashed #fff;
+}
+
+/* CURIOSIDADES */
+.curiosities-container {
+  padding: 25px 0;
+  margin: 25px 0;
+  border-top: 1px dashed #fff;
+  border-bottom: 1px dashed #fff;
+}
+
+.curiosities-container li {
+  height: 30px;
+}
+
+/* IMAGEM DE DESTAQUE 3 (BOLD) */
+.img-bold {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* REFERÊNCIAS */
+.references-container {
+  padding: 25px 0;
+  margin: 25px 0;
+  border-bottom: 1px dashed #fff;
+}
+
+.references-container li {
+  height: 30px;
+}
